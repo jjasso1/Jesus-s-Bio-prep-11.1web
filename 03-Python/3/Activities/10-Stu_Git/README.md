@@ -1,8 +1,8 @@
-# Git Practice
+# Git Practice Exrecise 2
 
 ## Instructions
 
-* Using the repo that we created in teh previous activity, make or add the following changes:
+* Using the repo that we created in the previous activity, make or add the following changes:
 
     1. Add new lines of code to one of the python files.
     2. Create a new folder.
