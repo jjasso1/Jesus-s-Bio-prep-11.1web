@@ -27,6 +27,7 @@ movie_found = False
 with open(csvpath) as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     next(csvreader)
+
     # Loop through looking for the video
     for row in csvreader:
         if row[0] == video:
