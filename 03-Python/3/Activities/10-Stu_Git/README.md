@@ -1,4 +1,4 @@
-# Git Practice Exrecise 2
+# Git Practice Exercise 2
 
 ## Instructions
 
